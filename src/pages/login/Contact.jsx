@@ -3,7 +3,7 @@ import React from "react";
 function Contact() {
   return (
     <div>
-      <div>Halaman Contact</div>
+      <div>Halaman Contact fix</div>
     </div>
   );
 }
